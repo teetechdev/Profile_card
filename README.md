@@ -32,7 +32,7 @@ Mobile Version <br>
 
 ### Links
 
-- Live Site URL: [Profile Card](https://github.com/teetechdev/Profile_card)
+- Live Site URL: [Profile Card](https://teetechdev.github.io/Profile_card/)
 
 ## My process
 
